@@ -1,0 +1,7 @@
+log_id,aircraft_id,log_date,defect_text,flight_hours,station,reported_by
+9001,vt-abc,2024-01-01,ENG 1 oil pressure warning during climb,3490,DEL,Pilot
+9002,VT ABC,01/01/2024,Oil pressure stabilized after level off,3491,DEL,Pilot
+9003,vt-def,2024/01/01,Hydraulic system B pressure fluctuation noted,4190,BOM,Pilot
+9004,VTDEF,2024-01-01,Hydraulic pump inspection recommended,4190,BOM,Maintenance
+9005,vt-ghi,01-01-2024,Brake temperature high on landing,5088,MAA,Pilot
+9006,VT GHI,2024-01-01,Brake cooling procedure followed,5089,MAA,Maintenance

@@ -1,0 +1,7 @@
+log_id,aircraft_id,log_date,defect_text,flight_hours,station,reported_by
+1001,vt-abc,2024-01-02,ENG 1 oil pressure fluctuating during climb,3500,DEL,Pilot
+1002,VT ABC,02/01/2024,Oil pressure warning on engine 1 observed after takeoff,3501,BOM,Pilot
+1003,VTABC,2024/01/02,Hydraulic pump noise noticed during taxi in,4205,BLR,Maintenance
+1004,vt-def,2024-01-02,Avionics master caution displayed intermittently,4206,HYD,Pilot
+1005,VT-DEF,2024-01-02,Reset of avionics system carried out post landing,4206,HYD,Maintenance
+1006,vt-ghi,02-01-2024,Brake temperature indication high on landing,5102,MAA,Pilot
